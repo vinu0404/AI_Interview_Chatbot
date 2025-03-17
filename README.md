@@ -9,7 +9,7 @@ This project is an **AI-powered Hiring Assistant** that conducts **technical int
 - **Dynamic Question Generation:** Uses Mistral LLM to generate interview questions based on the candidate's tech stack.
 - **Conversational Memory:** Maintains chat history to ensure contextual responses.
 - **Real-time Interview Evaluation:** Displays progress and collects answers from the candidate.
-- **Clean & Modern UI:** Built using **Streamlit**, with enhanced styling for a professional experience.
+- **Clean & Modern UI:** Built using **Streamlit**, with enhanced styling.
 
 
 
