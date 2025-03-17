@@ -15,7 +15,7 @@ This project is an **AI-powered Hiring Assistant** that conducts **technical int
 
 ##  Project Setup
 
-### 1️⃣ Prerequisites
+### Prerequisites
 
 - Python (3.10)
 - AWS Account with **Bedrock enabled**
@@ -24,7 +24,7 @@ This project is an **AI-powered Hiring Assistant** that conducts **technical int
 - LangChain
 - ChromaDB
 
-### 2️⃣ Install Dependencies:
+### Install Dependencies:
 
 ```bash
 pip install streamlit boto3 langchain-aws langchain-community chromadb
