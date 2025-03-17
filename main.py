@@ -173,7 +173,7 @@ with col2:
                     st.warning("Please provide an answer before submitting.")
 
         else:
-            st.success("🎉 Interview Complete!")
+            st.success("Interview Complete!")
             st.write("### Your Responses:")
             for i, (q, a) in enumerate(zip(st.session_state["questions"], st.session_state["answers"])):
                 st.write(f"**Q{i+1}:** {q}")
