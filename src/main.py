@@ -188,6 +188,6 @@ with col2:
             st.markdown(f"<div class='chat-box user-message'><b>🧑 {role}:</b> {message}</div>", unsafe_allow_html=True)
 
 if st.button("End Interview"):
-    st.success("Thank you for your time! 🎯")
+    st.success("Thank you for your time!")
     st.session_state.clear()
     st.rerun()
