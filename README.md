@@ -1,4 +1,4 @@
-#  AI Hiring Assistant - AWS Bedrock & LangChain    [Live](https://deploy-srmh.onrender.com)
+#  AI Hiring Assistant - AWS Bedrock & LangChain       [Live_Demo](https://deploy-srmh.onrender.com)
 
 This project is an **AI-powered Hiring Assistant** that conducts **technical interviews** for candidates based on their skills and experience. It uses **AWS Bedrock**, **LangChain**, **ChromaDB**, and **Streamlit** to generate and evaluate interview questions dynamically.
 
